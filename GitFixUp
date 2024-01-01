@@ -1,0 +1,7 @@
+git rebase -i HEAD~no of commits 
+
+interactive terminal opens
+
+change the commits you want to change as single commit
+as fixup or f instead of pick
+It will remove the commit message and ammend the changes the previous commit 
